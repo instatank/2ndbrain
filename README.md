@@ -39,6 +39,25 @@ After that, `/save-to-brain` is available in every local session, whatever
 repo it's in. (Cloud sessions get the skill automatically whenever this
 repo is added to the session; `instatank/instatank42` also carries a copy.)
 
+## Backfilling past sessions (one-time)
+
+`/save-to-brain` captures sessions from here on. To bring in sessions you had
+*before* installing the skill, there are two ways:
+
+- **A few sessions:** reopen each one and run `/save-to-brain`. In the CLI:
+  `claude --resume` lists past sessions to pick from; in the desktop app,
+  reopen the conversation from history. Only works for sessions still saved
+  and reopenable.
+- **A lot of sessions:** `brain_backfill.py` (in the `instatank/instatank42`
+  repo) automates it — it reads Claude Code's own on-disk session
+  transcripts, condenses each into a digest, and commits them here. Run
+  `python3 brain_backfill.py --list` first to see what it finds. **Important:
+  it only sees sessions that ran *locally* on your Mac** (`~/.claude/projects/`);
+  desktop-app sessions that executed in the cloud leave nothing local, so
+  `--list` is also the test of whether backfill is possible at all. It writes
+  a local commit and does not push until you review it (or pass `--push`).
+  Full walkthrough: that script's header comment.
+
 ## Rules
 
 - **The canonical copy of the skill lives here.** The copy in
