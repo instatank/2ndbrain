@@ -1,0 +1,169 @@
+{
+ "mobken48mj4g9": {
+  "_synced": true,
+  "createdAt": "2026-04-23T19:46:29",
+  "date": "2026-04-23",
+  "fullNotes": null,
+  "id": "mobken48mj4g9",
+  "sourceName": "Claude design YT",
+  "sourceType": "Video",
+  "tags": [
+   "#building",
+   "#ai"
+  ],
+  "takeaway": "Uses a lot of tokens but quite flexible"
+ },
+ "moe01hm1m4cad": {
+  "_synced": true,
+  "createdAt": "2026-04-25T12:39:42",
+  "date": "2026-05-04",
+  "fullNotes": "— One-person co. - Demand!? Digital user acquisition? Pricing should be low-friction (sub 👍)\n—WhatsApp distribution critical India\n- coach framework very strong (dating, spiritual etc.). \n- can do voice agent too : plenty!rumik.ai) ..Vapi, elevenlabs\n- Huggies soul2.0 - fine tune personalised model\n- severance prompt engineer skill ?? \n- running ads - meta ads; magicX \n-julius AI : analytics\nPaperclip : agent orchestration - , polsia, nas.\nPietra studio\n- AI doesnt have access to YT, Insta, twitter feeds etc. (except serarch stuff)\n- Can create an app for the content management process??\n- CONTENT : Research --> synthesis -->\nin research, he mainly used Apify (youtube transcript scraping, and some basic insta, tweet etc. only indexed stuff)",
+  "id": "moe01hm1m4cad",
+  "sourceName": "Raj Vaibhav 0499",
+  "sourceType": "Video",
+  "tags": [
+   "#ai"
+  ],
+  "takeaway": "- One-person company end-to end \n- voice agents"
+ },
+ "moi87rsw8kozx": {
+  "_synced": true,
+  "createdAt": "2026-04-28T11:39:36",
+  "date": "2026-04-28",
+  "fullNotes": "- application layer is best opportunity\n- verticalised and specialised is how\n- coding is infinite space. \n- apple in good position - privacy, chips, hardware",
+  "id": "moi87rsw8kozx",
+  "sourceName": "This week startups - Aravind, Edwin",
+  "sourceType": "Video",
+  "tags": [
+   "#ai"
+  ],
+  "takeaway": "Application later - verticalised and specialised - best opportunity"
+ },
+ "moithxttcpzwm": {
+  "_synced": true,
+  "createdAt": "2026-04-28T21:35:23",
+  "date": "2026-04-28",
+  "fullNotes": "- huge FII outflows so market should go down first (otherwise retail wins and smart loses which cannot happen)\n- rupee dep is a big deterrent to fii, unless market tanks etc. coz then outsized returns",
+  "id": "moithxttcpzwm",
+  "sourceName": "Akhil call",
+  "sourceType": "Other",
+  "tags": [
+   "#trading"
+  ],
+  "takeaway": "Follow the smart money"
+ },
+ "moo6pfbfhnazf": {
+  "_synced": true,
+  "createdAt": "2026-05-02T15:43:58",
+  "date": "2026-05-02",
+  "fullNotes": null,
+  "id": "moo6pfbfhnazf",
+  "sourceName": "Chamath top 0.01%",
+  "sourceType": "Video",
+  "tags": [],
+  "takeaway": "- desire creates energy (for hard work etc.)\n- be true to yourself (brutally,take responsibility)\n- repetition (extreme)\n- do things that are your own \n- hinesty; infinite game ; relentless focus; good:useful"
+ },
+ "morhsjs78ziek": {
+  "_synced": true,
+  "createdAt": "2026-05-04T23:17:38",
+  "date": "2026-05-04",
+  "fullNotes": null,
+  "id": "morhsjs78ziek",
+  "sourceName": "Reid Hoffman SVG",
+  "sourceType": "Video",
+  "tags": [],
+  "takeaway": "Voice input — and then he meta prompts\n- ask it to be contrarian ; \nIt’s training data is 18 months outdated\n\n- demonstrate your ai skills where they are visible\n- orchestration\n- Models for group experiences\nAd — linked in content database\n- for everything I do, ask “how could I donit w AI"
+ },
+ "mosobtonu8lep": {
+  "_synced": true,
+  "createdAt": "2026-05-05T19:08:21",
+  "date": "2026-05-05",
+  "fullNotes": null,
+  "id": "mosobtonu8lep",
+  "sourceName": "Sisinty openAI smartphone",
+  "sourceType": "Video",
+  "tags": [],
+  "takeaway": "Adobe in Claude ; lobsterfather on telegram\nGrok imagine agent mode ; Manus cloud computer\nOpenclaw on ChatGPT ; Gemini creates docs now\nReplit slides ; eleven music; lovable mobile ; \nElevenflows"
+ },
+ "mosx1gfto6zw9": {
+  "_synced": false,
+  "createdAt": "2026-05-05T23:12:14",
+  "date": "2026-05-05",
+  "fullNotes": null,
+  "id": "mosx1gfto6zw9",
+  "sourceName": "Bill gurley svg",
+  "sourceType": "Video",
+  "tags": [],
+  "takeaway": "Chase curiosity; learning mindset\nFind mentors; build peer group\nRole play, scenario plan"
+ },
+ "movgr8amygqv9": {
+  "_synced": false,
+  "createdAt": "2026-05-07T17:59:41",
+  "date": "2026-05-07",
+  "fullNotes": "Not for contents sake\nDistribution! \nNiche where you are no. 1 go to guy\nInsta best to start — excite ; then LinkedIn - network ; TWITTER (personality - opinion); - YT very slow (wide scope) - educate",
+  "id": "movgr8amygqv9",
+  "sourceName": "Content formula think school",
+  "sourceType": "Podcast",
+  "tags": [],
+  "takeaway": ""
+ },
+ "mox68gmd5inol": {
+  "_synced": false,
+  "createdAt": "2026-05-08T22:40:42",
+  "date": "2026-05-08",
+  "fullNotes": "W/ RAG , the model re-reads every session starts over\n3 layers :\n- raw sources\n- wiki\n- schema (eg. Claude.md)\n\nWhat you need to:\n- obsidian (md editor) -> vault(folder)->then 3 sub folders for the above 3 layers (raw, wiki, template)\n- AI coding agent\n- \n\nAlso get the obsidian editor - can convert any webpage to markdown file\nClaude code can also read pdfs directly\n\nLINTING the wiki",
+  "id": "mox68gmd5inol",
+  "sourceName": "LLM WIKI — https://youtu.be/iXd0t60YmMw?si=s0gewl4Gi0L2boYJ",
+  "sourceType": "Video",
+  "tags": [],
+  "takeaway": "Try this with the UoT sources (but best for personal scale). Maybe workout or some other project"
+ },
+ "mp1elbxxtfrps": {
+  "_synced": false,
+  "createdAt": "2026-05-11T21:45:44",
+  "date": "2026-05-11",
+  "fullNotes": null,
+  "id": "mp1elbxxtfrps",
+  "sourceName": "Naval on vibecoding",
+  "sourceType": "Video",
+  "tags": [],
+  "takeaway": "Personal App Store where all apps reside\n- bug reporting/fixing architecture built into the App Store"
+ },
+ "mpvik414btjoc": {
+  "_synced": false,
+  "createdAt": "2026-06-01T23:29:51",
+  "date": "2026-06-02",
+  "fullNotes": "Less is more - \nEven getting fb more info or indicators etc. is not necessary. Stick to what you know\nRisk mgmt (R) > win %\nGet data and see what it shows you\nWhen developing keep size constant, advanced should adjust sizing \n4/5 key mechanical rules\n- if long but losing , should we add ? - look for reasons to short to avoid confirmation bias\n- let the market reflect the macro/news rather than assuming it will\n-cuttings winning too early. \nDon’t look at P&L; change candle colors; trade price\n- when trading write down thought process\n- he often does not wait for take profit and exits earlier coz now close to it, the R is different. It’s ok to sell!",
+  "id": "mpvik414btjoc",
+  "sourceName": "15 traders vs one winning trader",
+  "sourceType": "Video",
+  "tags": [],
+  "takeaway": "",
+  "voiceNotes": []
+ },
+ "mpxsp18yk29df": {
+  "_synced": false,
+  "createdAt": "2026-06-03T13:49:09",
+  "date": "2026-06-03",
+  "fullNotes": "Can you create a 100x factory\nFeedback, guide given to models huge imp! But models keep getting better w all this\nVerifiable domains is the target\nBuilding block economy\nAutomated anomaly testing\nAutonomous optimization process, security research\nCyber security is tough and crucial\nRemember Nacala bug reporting mechanism",
+  "id": "mpxsp18yk29df",
+  "sourceName": "Naval - AI",
+  "sourceType": "Video",
+  "tags": [],
+  "takeaway": "",
+  "voiceNotes": []
+ },
+ "mrdbkjav9pavn": {
+  "_synced": false,
+  "attachments": [],
+  "createdAt": "2026-07-09T15:13:47",
+  "date": "2026-07-09",
+  "fullNotes": "BTC HTF : should either chop or hard down to 40-50 (both are fine long run)\nSol W level is 81; daily 76 for S/R (but overall market bearish)",
+  "id": "mrdbkjav9pavn",
+  "sourceName": "Casual Friday - Jul 9",
+  "sourceType": "Video",
+  "tags": [],
+  "takeaway": "",
+  "voiceNotes": []
+ }
+}

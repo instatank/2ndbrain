@@ -1,0 +1,23 @@
+{
+  "last_attempt": "2026-07-17T01:28:32.585759+05:30",
+  "uid": "suz3gT477hWaS4HD8xKCNGtX4hz2",
+  "mode": "recent",
+  "last_success": "2026-07-17T01:28:41.782259+05:30",
+  "counts": {
+    "life_ratings": 29,
+    "sessions": 17,
+    "ratings": 2,
+    "monthlyReviews": 1,
+    "dfts": 22,
+    "captures": 261,
+    "weeklyReviews": 1,
+    "blocks": 1110,
+    "learning": 14,
+    "eod": 15,
+    "dailyJournal": 49,
+    "digest_files": 164,
+    "digest_files_changed": 4
+  },
+  "duration_s": 9.2,
+  "last_full": "2026-07-16T11:10:03.911759+05:30"
+}

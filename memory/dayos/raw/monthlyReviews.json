@@ -1,0 +1,76 @@
+{
+ "2026-04": {
+  "directionCheck": {
+   "didntGoAsPlanned": "UoT no progress, nutrition exercise; leaning",
+   "gotClearer": "Systems setting, project prioritising n focus; abidance"
+  },
+  "learningFocusNext": {
+   "freeText": "Claude code build optimize",
+   "tags": [
+    "#building",
+    "#trading"
+   ]
+  },
+  "learningHarvest": {
+   "byType": {
+    "Other": 1,
+    "Video": 2
+   },
+   "topTags": [
+    {
+     "count": 2,
+     "tag": "#ai"
+    },
+    {
+     "count": 1,
+     "tag": "#building"
+    },
+    {
+     "count": 1,
+     "tag": "#trading"
+    }
+   ],
+   "totalEntries": 3,
+   "worthApplying": "Systems; building workflow (but not much)"
+  },
+  "month": "2026-04",
+  "monthLabel": "April 2026",
+  "newProjects": [],
+  "oneExperiment": "Trading and building together",
+  "oneFocus": "Level-up build (diverse); accelerate connection",
+  "projectActions": [
+   {
+    "action": "demote",
+    "monthlyHours": 12.5,
+    "projectName": "DayOS"
+   },
+   {
+    "action": "keep",
+    "monthlyHours": 8.75,
+    "projectName": "PartySpark"
+   },
+   {
+    "action": "promote",
+    "monthlyHours": 0,
+    "projectName": "UoT"
+   },
+   {
+    "action": "promote",
+    "monthlyHours": 0,
+    "projectName": "Trading"
+   },
+   {
+    "action": "demote",
+    "monthlyHours": 0,
+    "projectName": "Meal Co-Pilot"
+   },
+   {
+    "action": null,
+    "monthlyHours": 0,
+    "projectName": "Content management might help optimize"
+   }
+  ],
+  "savedAt": "2026-05-05T13:58:15",
+  "weeklyIntentionsCoherence": null
+ }
+}

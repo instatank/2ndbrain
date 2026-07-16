@@ -1,0 +1,29 @@
+{
+ "2026-05-03": {
+  "intention": "Testing banner display",
+  "nextWeekIntention": "Testing banner display",
+  "patterns": [
+   "Your deep work averaged 3.6h on days with full systems adherence vs 1.3h on others.",
+   "Mindset improved from 3.8 to 4.7 this week."
+  ],
+  "savedAt": "2026-05-07T15:42:09",
+  "starAverages": {
+   "exercise_nutrition": 3.33,
+   "habit_stacking": 5,
+   "mindset": 4.67,
+   "pseudo_productivity": 3.5,
+   "relationship": 3.67
+  },
+  "tasks": [],
+  "totals": {
+   "adherencePct": 48,
+   "dayRatingAvg": 0,
+   "deepWorkHrs": 13.75,
+   "dftRate": 1,
+   "taskCompletionRate": 0.41379310344827586,
+   "winCount": 2
+  },
+  "weekEnd": "2026-05-09",
+  "weekStart": "2026-05-03"
+ }
+}

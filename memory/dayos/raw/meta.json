@@ -1,0 +1,178 @@
+{
+ "adherence": {
+  "rules": [
+   {
+    "condition": {
+     "category": "Deep Work",
+     "minMinutes": 120
+    },
+    "enabled": true,
+    "id": "deepwork",
+    "label": "Deep Work ≥ 2hr",
+    "source": "timeBlocks",
+    "type": "auto"
+   },
+   {
+    "condition": {
+     "category": "Practice",
+     "minMinutes": 1
+    },
+    "enabled": true,
+    "id": "practice",
+    "label": "Practice logged",
+    "source": "timeBlocks",
+    "type": "auto"
+   },
+   {
+    "condition": {
+     "category": "Learning",
+     "minMinutes": 60
+    },
+    "enabled": true,
+    "id": "learning",
+    "label": "Learning ≥ 1hr",
+    "source": "timeBlocks",
+    "type": "auto"
+   }
+  ]
+ },
+ "dayscore": {
+  "tiles": [
+   {
+    "enabled": true,
+    "id": "deepWork"
+   },
+   {
+    "enabled": true,
+    "id": "leaks"
+   },
+   {
+    "enabled": true,
+    "id": "practice"
+   },
+   {
+    "enabled": true,
+    "id": "journal"
+   },
+   {
+    "enabled": true,
+    "id": "entCap"
+   }
+  ]
+ },
+ "defaultBlockSkips": {
+  "2026-06-29": {
+   "tpl-mqtefpnr": "deleted"
+  }
+ },
+ "defaultBlocks": {
+  "templates": [
+   {
+    "category": "routine",
+    "duration_min": 480,
+    "enabled": true,
+    "id": "tpl-mqtef3ux",
+    "label": "Sleep",
+    "projectTag": "",
+    "start_time": "02:00"
+   },
+   {
+    "category": "practice",
+    "duration_min": 120,
+    "enabled": true,
+    "id": "tpl-mqtefpnr",
+    "label": "Night Routine",
+    "projectTag": "",
+    "start_time": "00:00"
+   }
+  ]
+ },
+ "lifecheck": {
+  "metrics": [
+   {
+    "enabled": true,
+    "id": "habit_stacking",
+    "label": "Habit Stacking"
+   },
+   {
+    "enabled": true,
+    "id": "exercise_nutrition",
+    "label": "Exercise & Nutrition"
+   },
+   {
+    "enabled": true,
+    "id": "mindset",
+    "label": "Mindset"
+   },
+   {
+    "enabled": true,
+    "id": "relationship",
+    "label": "Relationship"
+   },
+   {
+    "enabled": true,
+    "id": "pseudo_productivity",
+    "label": "Pseudo-Productivity"
+   },
+   {
+    "enabled": false,
+    "id": "anger",
+    "label": "sleep"
+   }
+  ]
+ },
+ "projects": {
+  "list": [
+   "DayOS",
+   "PartySpark",
+   "UoT",
+   "Trading",
+   "Content",
+   "Rehaan",
+   "Mealplan",
+   "Career",
+   "Systems",
+   "LearnAI",
+   "Cadence",
+   "Time tracker",
+   "Truth Unites",
+   "MORNING PAPERS",
+   "BillBud",
+   "Meal Co-Pilot",
+   "Content management might help optimize",
+   "Content Management",
+   "Meal Planner",
+   "Advice",
+   "Trade Genie",
+   "SHOWCASE",
+   "Hetzner",
+   "instatank42"
+  ]
+ },
+ "tag_history": {
+  "history": [
+   "#uot",
+   "#morningpapers",
+   "#truthunites",
+   "#personalagent",
+   "#2ndbrain",
+   "#instatank42",
+   "#hetzner",
+   "#showcase",
+   "#tradegenie",
+   "#tradejournal",
+   "#billbud",
+   "#content",
+   "#ai",
+   "#building",
+   "#contentmanagement",
+   "#dayos",
+   "#meditatoon",
+   "#partyspark",
+   "#trading",
+   "#winsop",
+   "#billos",
+   "#smoking"
+  ]
+ }
+}

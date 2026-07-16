@@ -1,0 +1,351 @@
+{
+ "mobkd7ai2uto1": {
+  "_synced": true,
+  "after": "Got pretty distracted with Partyspark big \n✓ Nice feature progress\n> Full-on testing",
+  "before": "Projects and learning’s log",
+  "createdAt": "2026-04-23T19:45:22",
+  "date": "2026-04-23",
+  "done": [
+   "Nice feature progress"
+  ],
+  "durationMin": 120,
+  "during": "Nice bunch of features shipped. Just minor stuff leftover",
+  "id": "mobkd7ai2uto1",
+  "learned": [],
+  "linkedBlockId": "mobkd7amqlvgr",
+  "pending": [
+   "Full-on testing"
+  ],
+  "projectName": "DayOS",
+  "tags": [
+   "#win"
+  ]
+ },
+ "mobliww5ktpz9": {
+  "_synced": true,
+  "after": "Learning - some minor issues can be a massive burn on time and effort\n- some very good ab design testing. Doesn’t feel like progress but is!",
+  "before": "New designs from Claude design",
+  "createdAt": "2026-04-23T20:17:48",
+  "date": "2026-04-23",
+  "done": [],
+  "durationMin": 120,
+  "during": "- massively stuck on minor GitHub repo pull",
+  "id": "mobliww5ktpz9",
+  "learned": [],
+  "linkedBlockId": "mobliww8zux05",
+  "pending": [],
+  "projectName": "PartySpark",
+  "tags": []
+ },
+ "mocqhotoh6zyx": {
+  "_synced": true,
+  "after": "> workout",
+  "before": "Feature test, UI optimize - tags, previews,minor ui",
+  "createdAt": "2026-04-24T15:24:35",
+  "date": "2026-04-24",
+  "done": [],
+  "durationMin": 60,
+  "during": "#dayos - spacing on review preview, and condensing preview window tab\n- all option for pills (default can be latest entry project)\n- double time time entry\n- can we merge tags ? DayOS and time tracker ? Retro too\n- tagging getting messy ? Mapping across ?\n-",
+  "id": "mocqhotoh6zyx",
+  "learned": [],
+  "linkedBlockId": "mocqhotrxy49x",
+  "pending": [
+   "workout"
+  ],
+  "projectName": "DayOS",
+  "tags": [
+   "#dayos"
+  ]
+ },
+ "mod3iyqu485d4": {
+  "_synced": true,
+  "after": "",
+  "before": "Light mode design",
+  "createdAt": "2026-04-24T21:29:30",
+  "date": "2026-04-24",
+  "done": [],
+  "durationMin": 30,
+  "during": "",
+  "id": "mod3iyqu485d4",
+  "learned": [],
+  "linkedBlockId": "mod27glcq0c5b",
+  "pending": [],
+  "projectName": "DayOS",
+  "tags": []
+ },
+ "moidg2q0banj4": {
+  "_synced": true,
+  "after": ">  Weekly review\n> Home page ALL LOGGING system\n* Need a learn while build system",
+  "before": "UI updates, tagging and weekly design",
+  "createdAt": "2026-04-28T14:06:02",
+  "date": "2026-04-28",
+  "done": [],
+  "durationMin": 60,
+  "during": "Very good ui changes\nbunch of tagging system changes\nsearch functionality",
+  "id": "moidg2q0banj4",
+  "learned": [
+   "Need a learn while build system"
+  ],
+  "linkedBlockId": "moiat1h20jm09",
+  "pending": [
+   "Weekly review",
+   "Home page ALL LOGGING system"
+  ],
+  "projectName": "DayOS",
+  "tags": []
+ },
+ "moiy20n5iregn": {
+  "_synced": true,
+  "after": "✓ Was tempted to be done midway but great job wrapping up\n> System capped so coding work didnt complete",
+  "before": "Weekly plan, journal format, monthly, trends",
+  "createdAt": "2026-04-28T23:42:58",
+  "date": "2026-04-28",
+  "done": [
+   "Was tempted to be done midway but great job wrapping up"
+  ],
+  "durationMin": 60,
+  "during": "- good brainstorm with ai\n- followed a nice iterative framework",
+  "id": "moiy20n5iregn",
+  "learned": [],
+  "linkedBlockId": "moiwkxks0qkam",
+  "pending": [
+   "System capped so coding work didnt complete"
+  ],
+  "projectName": "DayOS",
+  "tags": []
+ },
+ "mojqeetp0my3w": {
+  "_synced": true,
+  "after": "✓ 100min for planning,new journal, finalize weekly\n*  Let system test itself too\n* If not working when system builds, we can also watch podcast\n* Testing while building is very good practice. Rather than later\n* Set yourself constraints and deadlines",
+  "before": "New journal build; weekly review set+build; monthly and trends too!",
+  "createdAt": "2026-04-29T12:56:25",
+  "date": "2026-04-29",
+  "done": [
+   "100min for planning,new journal, finalize weekly"
+  ],
+  "durationMin": 90,
+  "during": "Building journal\n- not running multiple\n- over building right now, trimming later\n- including the entertainment feature\n- monthly and trend 20 min each to build. \nWeekly build happened fast. Run through month and trend too (don’t waste time!?)\n- 15m testing",
+  "id": "mojqeetp0my3w",
+  "learned": [
+   "Let system test itself too",
+   "If not working when system builds, we can also watch podcast",
+   "Testing while building is very good practice. Rather than later",
+   "Set yourself constraints and deadlines"
+  ],
+  "linkedBlockId": "mojp74oye710c",
+  "pending": [],
+  "projectName": "DayOS",
+  "tags": []
+ },
+ "mojyatcw8v563": {
+  "_synced": true,
+  "after": "> Light mode fail.  for later",
+  "before": "Design tabs (consistent light mode design) ; idea gen ; one new game (social); gameflow",
+  "createdAt": "2026-04-29T16:37:35",
+  "date": "2026-04-29",
+  "done": [],
+  "durationMin": 60,
+  "during": "Revert to dark only design and finalize sub design\nReviewing game wise gameflow",
+  "id": "mojyatcw8v563",
+  "learned": [],
+  "linkedBlockId": "mojyatcz0z4gq",
+  "pending": [
+   "Light mode fail.  for later"
+  ],
+  "projectName": "DayOS",
+  "tags": [
+   "#partyspark"
+  ]
+ },
+ "mok7pm053xjxd": {
+  "_synced": true,
+  "after": "* design stuff can really be a time drain, and doesn’t feel like much done\n✓ Lot of consistency across app achieved\n> Light mode had to be abandoned. Do like DayOS?",
+  "before": "Design stuff - gameflow, design",
+  "createdAt": "2026-04-29T21:01:01",
+  "date": "2026-04-29",
+  "done": [
+   "Lot of consistency across app achieved"
+  ],
+  "durationMin": 90,
+  "during": "Truth or drink fully optimize\nIntroduce customer to two more\nFully optimize charades, taboo and fiction\nPlenty design and gameflow updates achieved",
+  "id": "mok7pm053xjxd",
+  "learned": [
+   "design stuff can really be a time drain, and doesn’t feel like much done"
+  ],
+  "linkedBlockId": "mok7pm08bfre3",
+  "pending": [
+   "Light mode had to be abandoned. Do like DayOS?"
+  ],
+  "projectName": "PartySpark",
+  "tags": []
+ },
+ "mokbjbaq9fb19": {
+  "_synced": true,
+  "after": "- PS light mode shipped\n- os nice updates and fixes\n* Multi-tasking b/w projects is fine for similar, or low mental load work",
+  "before": "Dual surgical design work -",
+  "createdAt": "2026-04-29T22:48:06",
+  "date": "2026-04-29",
+  "done": [],
+  "durationMin": 120,
+  "during": "PS - light mode\noS - homepage design",
+  "id": "mokbjbaq9fb19",
+  "learned": [
+   "Multi-tasking b/w projects is fine for similar, or low mental load work"
+  ],
+  "linkedBlockId": "mokbjbasrpvai",
+  "pending": [],
+  "projectName": "PartySpark",
+  "tags": [
+   "#dayos",
+   "#partyspark"
+  ]
+ },
+ "mol72bl2nrsrc": {
+  "_synced": true,
+  "after": "✓ design stuff\n✓ Project setup\n> Roast and custom prompts and generation",
+  "before": "RoastME and custom gameflow and design",
+  "createdAt": "2026-04-30T13:30:41",
+  "date": "2026-04-30",
+  "done": [
+   "design stuff",
+   "Project setup"
+  ],
+  "durationMin": 90,
+  "during": "- Search, pills\n- roast me, custom design work\n- project setup\n- bunch of other design updates",
+  "id": "mol72bl2nrsrc",
+  "learned": [],
+  "linkedBlockId": "mol6z9uwjdwyk",
+  "pending": [
+   "Roast and custom prompts and generation"
+  ],
+  "projectName": "PartySpark",
+  "tags": []
+ },
+ "moo9mhuor891y": {
+  "_synced": true,
+  "after": "> Roast me new prompts later",
+  "before": "Custom Ai gen working\nRoast me design",
+  "createdAt": "2026-05-02T17:05:40",
+  "date": "2026-05-02",
+  "done": [],
+  "durationMin": 90,
+  "during": "Fixed all ai gen\nCustom prompts done\n5pm - RoastME page design working. 30 min main implementation ; and then overkill fine-tune work\n- covered the loading page also",
+  "id": "moo9mhuor891y",
+  "learned": [],
+  "linkedBlockId": "moo6slbcmzvm7",
+  "pending": [
+   "Roast me new prompts later"
+  ],
+  "projectName": "PartySpark",
+  "tags": []
+ },
+ "mor29bmaj5asg": {
+  "_synced": true,
+  "after": "*  even trivial context switching can be a drain\n* stay focused, and see things through to the end, than leave them half baked",
+  "before": "RESEARCH",
+  "createdAt": "2026-05-04T16:02:47",
+  "date": "2026-05-04",
+  "done": [],
+  "durationMin": 60,
+  "during": "tools : SCRAPING : Apify, (look for others); perplexity, (lobster??....TRANSCRIPTS process - NotebookLM\nThnk of 3 Content SOPs that could be useful :\n- recent news and updates (time-wise; topic-wise; publisher-wise)\n- topic/publisher based compile\n- UoT type project deep-research\n- creating checkpoints during workflow seetup, automation process (for the AI) to have the best context, so keep summarizing progress with the AI\n- they developed the whole SOP and turned into a SKILL. Skill.md created...and keep fine-tuning, updating ongoing \n- your experience in future is now all the projects, the processes, the workflows, Markdown files etc. that you have created",
+  "id": "mor29bmaj5asg",
+  "learned": [
+   "even trivial context switching can be a drain",
+   "stay focused, and see things through to the end, than leave them half baked"
+  ],
+  "linkedBlockId": "mor29bmbplk9j",
+  "pending": [],
+  "projectName": "Content",
+  "tags": []
+ },
+ "morbwjzhkztza": {
+  "_synced": true,
+  "after": "* not looking like a major \"build\" effort, so we can park it\n> claude has suggested a nice workflow for YT content mgmt. will use over-time\n> Can I make an app which will automate a lot of this stuff. Simple UI - mention functio, channel name and api handles it ??",
+  "before": "Content SOPs; Solve for scrolling",
+  "createdAt": "2026-05-04T20:32:47",
+  "date": "2026-05-04",
+  "done": [],
+  "durationMin": 60,
+  "during": "what's all kinds of content engagement i do on youtube ?\n- Spiritual ; Podcasts/videos general interest (learn, ent, spirit, AI, ) ; entertainment (comedy, general) ; LEARN - AI, Trading, Spirit, Health, \nChallenges to overcome :\n-- Discovery is 80%+ by algo recos. \n-- scrolling is a big leak\n\nSolutions we need :\n-- compiling stuff better into categories would be a nice fix. Lump\n-- how to get atleast 3x efficiency in Watch:ingest ratio",
+  "id": "morbwjzhkztza",
+  "learned": [
+   "not looking like a major \"build\" effort, so we can park it"
+  ],
+  "linkedBlockId": "morbwjznb8ajg",
+  "pending": [
+   "claude has suggested a nice workflow for YT content mgmt. will use over-time",
+   "Can I make an app which will automate a lot of this stuff. Simple UI - mention functio, channel name and api handles it ??"
+  ],
+  "projectName": "Content",
+  "tags": []
+ },
+ "mosggt2p75ptn": {
+  "_synced": false,
+  "after": "> PS : game page descriptors\n✓ All Game cards and teams\n> SETTINGS for PS...mirroring, syncing ??\n✓ OS : projects, tags, SETTINGS - score, stars, tagging, \n> adherance, more customization, testing",
+  "before": "OS - UI, Settings, tagging\nPS - naming; cards database",
+  "createdAt": "2026-05-05T15:28:17",
+  "date": "2026-05-05",
+  "done": [
+   "All Game cards and teams",
+   "OS : projects, tags, SETTINGS - score, stars, tagging,"
+  ],
+  "durationMin": 180,
+  "during": "Customization options can be all laid out in settings. Keep ui clean. \n- P.S. : best to work on datasets on chat not cc",
+  "id": "mosggt2p75ptn",
+  "learned": [],
+  "linkedBlockId": "mosgdbxl5xske",
+  "pending": [
+   "PS : game page descriptors",
+   "SETTINGS for PS...mirroring, syncing ??",
+   "adherance, more customization, testing"
+  ],
+  "projectName": "DayOS",
+  "tags": [],
+  "voiceNotes": []
+ },
+ "moy55dz3hktab": {
+  "_synced": false,
+  "after": "✓ very good ux review on chat\n✓ Good design and ui updates to most of the app\n> Setup page still due ; and test all updates \n✓ BillOS simple UI updates\n* testing step at a time is good! Too many stringent guidelines can restrict creativity and scope;\n> Sync calibrate billOS with day OS",
+  "before": "UI, Navigation, Flow Fixes\nbillbud finalize minimal v1",
+  "createdAt": "2026-05-09T14:58:05",
+  "date": "2026-05-09",
+  "done": [
+   "very good ux review on chat",
+   "Good design and ui updates to most of the app",
+   "BillOS simple UI updates"
+  ],
+  "durationMin": 120,
+  "during": "Cadence :\n- let's get it to track mobbin if possible (if it cant, shall i?)\n; get a prompt to set this up for chat/project\n- should i explore LLM Wiki for this project ? (obsidian and the works)??",
+  "id": "moy55dz3hktab",
+  "learned": [
+   "testing step at a time is good! Too many stringent guidelines can restrict creativity and scope;"
+  ],
+  "linkedBlockId": "moy55dz64nqid",
+  "pending": [
+   "Setup page still due ; and test all updates",
+   "Sync calibrate billOS with day OS"
+  ],
+  "projectName": "Cadence",
+  "tags": []
+ },
+ "mp13wfe340czv": {
+  "_synced": false,
+  "after": "✓ good figuring out using cowork\n> amex",
+  "before": "compile input data",
+  "createdAt": "2026-05-11T16:46:26",
+  "date": "2026-05-11",
+  "done": [
+   "good figuring out using cowork"
+  ],
+  "durationMin": 90,
+  "during": "cowork covering hdfc stmt (amex pending)\ngmail being worked on as well",
+  "id": "mp13wfe340czv",
+  "learned": [],
+  "linkedBlockId": "mp13wfec1gn0l",
+  "pending": [
+   "amex"
+  ],
+  "projectName": "BillBud",
+  "tags": []
+ }
+}
