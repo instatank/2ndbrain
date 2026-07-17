@@ -1666,5 +1666,61 @@
   "thoughts": "",
   "timestamp": "2026-07-16T13:42:59",
   "voiceNotes": []
+ },
+ "2026-07-17": {
+  "_synced": false,
+  "attachments": [],
+  "date": "2026-07-17",
+  "id": "2026-07-17",
+  "lastEditedAt": "2026-07-17T17:53:44",
+  "reflection": "",
+  "tags": [],
+  "tasks": [
+   {
+    "carriedFromDate": "2026-07-16",
+    "completed": false,
+    "completedAt": null,
+    "id": "mrowr5ma6o9t0",
+    "text": "MF liquidate - mom and mine"
+   },
+   {
+    "carriedFromDate": "2026-07-16",
+    "completed": true,
+    "completedAt": "2026-07-17T17:53:44",
+    "id": "mrowr5madh2vq",
+    "text": "Ship Skills habit on claude"
+   },
+   {
+    "carriedFromDate": "2026-07-16",
+    "completed": true,
+    "completedAt": "2026-07-17T17:53:40",
+    "id": "mrowr5maeevxa",
+    "text": "CC pending - 2nd br strategic plan;"
+   },
+   {
+    "carriedFromDate": "2026-07-16",
+    "completed": false,
+    "completedAt": null,
+    "id": "mrowr5mai1wom",
+    "text": "cc pending - portfolio learning strategy review"
+   },
+   {
+    "carriedFromDate": "2026-07-16",
+    "completed": false,
+    "completedAt": null,
+    "id": "mrowr5ma0gb77",
+    "text": "Voting forms"
+   },
+   {
+    "carriedFromDate": "2026-07-16",
+    "completed": true,
+    "completedAt": "2026-07-17T17:53:28",
+    "id": "mrowr5mae7le1",
+    "text": "SMC"
+   }
+  ],
+  "thoughts": "Mind consumption - negative : rony, carrier\nDon’t have any productivity system\nBack to A-game masterclass VISION",
+  "timestamp": "2026-07-17T17:52:16",
+  "voiceNotes": []
  }
 }

@@ -2519,7 +2519,7 @@
  "mr40au73j3037": {
   "_synced": false,
   "attachments": [],
-  "body": "Done! Congratulations on your new bot. You will find it at t.me/Instatank_bot. You can now add a description, about section and profile picture for your bot, see /help for a list of commands. By the way, when you've finished creating your cool bot, ping our Bot Support if you want a better username for it. Just make sure the bot is fully operational before you do this.\n\nUse this token to access the HTTP API:\n8866840265:AAHPUvF4defguXgHA-DX8szO5CmYMezM6QA\nKeep your token secure and store it safely, it can be used by anyone to control your bot.\nTELEGRAM CHAT ID : id\":6398975123,\"\nFor a description of the Bot API, see this page: https://core.telegram.org/bots/api",
+  "body": "Done! Congratulations on your new bot. You will find it at t.me/Instatank_bot. You can now add a description, about section and profile picture for your bot, see /help for a list of commands. By the way, when you've finished creating your cool bot, ping our Bot Support if you want a better username for it. Just make sure the bot is fully operational before you do this.\n\nUse this token to access the HTTP API:\n\nKeep your token secure and store it safely, it can be used by anyone to control your bot.\nTELEGRAM CHAT ID : id\":6398975123,\"\nFor a description of the Bot API, see this page: https://core.telegram.org/bots/api",
   "id": "mr40au73j3037",
   "project_tag": "",
   "tags": [],
@@ -2543,7 +2543,7 @@
  "mr4y90c5yod0c": {
   "_synced": false,
   "attachments": [],
-  "body": "Instatank42_bot : personal ai agent bot\n\nDone! Congratulations on your new bot. You will find it at t.me/Instatnk42_bot. You can now add a description, about section and profile picture for your bot, see /help for a list of commands. By the way, when you've finished creating your cool bot, ping our Bot Support if you want a better username for it. Just make sure the bot is fully operational before you do this.\n\nUse this token to access the HTTP API:\n8846222987:AAEtZIHwj7jXq_t5NRxMu4bMByFmeOaH7tI\nKeep your token secure and store it safely, it can be used by anyone to control your bot.\n\n\nCHAT ID : 6398975123\nFor a description of the Bot API, see this page: https://core.telegram.org/bots/api",
+  "body": "Instatank42_bot : personal ai agent bot\n\nDone! Congratulations on your new bot. You will find it at t.me/Instatnk42_bot. You can now add a description, about section and profile picture for your bot, see /help for a list of commands. By the way, when you've finished creating your cool bot, ping our Bot Support if you want a better username for it. Just make sure the bot is fully operational before you do this.\n\nUse this token to access the HTTP API:\n\nKeep your token secure and store it safely, it can be used by anyone to control your bot.\n\n\nCHAT ID : 6398975123\nFor a description of the Bot API, see this page: https://core.telegram.org/bots/api",
   "id": "mr4y90c5yod0c",
   "project_tag": "",
   "tags": [],
@@ -2591,7 +2591,7 @@
  "mrazfspj9njgf": {
   "_synced": false,
   "attachments": [],
-  "body": "scp ~/Downloads/time-tracker-f07da-firebase-adminsdk-fbsvc-b83806faa5.json root@77.42.123.36:/opt/instatank-agent/.firebase-sa.json\n\nscp ~/Downloads/time-tracker-f07da-firebase-adminsdk-fbsvc-b83806faa5.json root@77.42.123.36:/opt/instatank-agent/.firebase-sa.json\n\nHetzner server password : k47UngmuknTuCk7TuJWT\n\n#instatank42 #2ndbrain #personalagent",
+  "body": "scp ~/Downloads/time-tracker-f07da-firebase-adminsdk-fbsvc-b83806faa5.json root@77.42.123.36:/opt/instatank-agent/.firebase-sa.json\n\nscp ~/Downloads/time-tracker-f07da-firebase-adminsdk-fbsvc-b83806faa5.json root@77.42.123.36:/opt/instatank-agent/.firebase-sa.json\n\nHetzner server password : k47UngmuknTuCk7TuJWT@1234\n\n#instatank42 #2ndbrain #personalagent",
   "id": "mrazfspj9njgf",
   "project_tag": "instatank42",
   "tags": [
@@ -2626,20 +2626,6 @@
   "type": "note",
   "voiceNotes": []
  },
- "mrhva0a2mb0r2": {
-  "_synced": false,
-  "attachments": [],
-  "body": "Fable budget use ;\n- penalty : make defending more responsive..hard doesn’t seem any different. How are levels working ?)\n\n- SignalDesk : plan ? Other things (bot-like; real-time)\n- UoT : navigation still needs work. Mobile completely off",
-  "deletedAt": "2026-07-14T17:22:24",
-  "id": "mrhva0a2mb0r2",
-  "project_tag": "",
-  "tags": [
-   "#pending"
-  ],
-  "timestamp": "2026-07-12T19:36:33",
-  "type": "note",
-  "voiceNotes": []
- },
  "mri19ox8bvmaa": {
   "body": "❌ DFT skipped: Tax Paperwork Completed tonight #dft",
   "id": "mri19ox8bvmaa",
@@ -2649,17 +2635,6 @@
   ],
   "timestamp": "2026-07-09T23:59:00",
   "type": "note"
- },
- "mri19u86cuo3r": {
-  "_synced": false,
-  "attachments": [],
-  "body": "[REDACTED-SECRET]",
-  "id": "mri19u86cuo3r",
-  "project_tag": "",
-  "tags": [],
-  "timestamp": "2026-07-12T22:24:23",
-  "type": "note",
-  "voiceNotes": []
  },
  "mrjj73ru19qcj": {
   "_synced": false,
@@ -2746,6 +2721,36 @@
    "#dft"
   ],
   "timestamp": "2026-07-15T23:59:00",
+  "type": "note"
+ },
+ "mro0lyvhl3qht": {
+  "body": "❌ DFT skipped: SMC #dft",
+  "id": "mro0lyvhl3qht",
+  "project_tag": "",
+  "tags": [
+   "#dft"
+  ],
+  "timestamp": "2026-07-16T23:59:00",
+  "type": "note"
+ },
+ "mro0lzojgl4fw": {
+  "body": "❌ DFT skipped: SMC #dft",
+  "id": "mro0lzojgl4fw",
+  "project_tag": "",
+  "tags": [
+   "#dft"
+  ],
+  "timestamp": "2026-07-16T23:59:00",
+  "type": "note"
+ },
+ "mro5gupclcmdf": {
+  "body": "❌ DFT skipped: SMC #dft",
+  "id": "mro5gupclcmdf",
+  "project_tag": "",
+  "tags": [
+   "#dft"
+  ],
+  "timestamp": "2026-07-16T23:59:00",
   "type": "note"
  }
 }
