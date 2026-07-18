@@ -2752,5 +2752,25 @@
   ],
   "timestamp": "2026-07-16T23:59:00",
   "type": "note"
+ },
+ "mrqp8yv2y0qai": {
+  "body": "❌ DFT skipped: SMC #dft",
+  "id": "mrqp8yv2y0qai",
+  "project_tag": "",
+  "tags": [
+   "#dft"
+  ],
+  "timestamp": "2026-07-17T23:59:00",
+  "type": "note"
+ },
+ "mrqp90ls6mvak": {
+  "body": "❌ DFT skipped: SMC #dft",
+  "id": "mrqp90ls6mvak",
+  "project_tag": "",
+  "tags": [
+   "#dft"
+  ],
+  "timestamp": "2026-07-17T23:59:00",
+  "type": "note"
  }
 }

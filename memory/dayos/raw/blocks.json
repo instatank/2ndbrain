@@ -329,6 +329,36 @@
   "start_time": "02:00",
   "tags": []
  },
+ "default-tpl-mqtef3ux-2026-07-18": {
+  "_default": true,
+  "_synced": false,
+  "_templateId": "tpl-mqtef3ux",
+  "category": "routine",
+  "date": "2026-07-18",
+  "duration_min": 480,
+  "energy_level": "",
+  "id": "default-tpl-mqtef3ux-2026-07-18",
+  "label": "Sleep",
+  "note": "",
+  "projectTag": "",
+  "start_time": "02:00",
+  "tags": []
+ },
+ "default-tpl-mqtef3ux-2026-07-19": {
+  "_default": true,
+  "_synced": false,
+  "_templateId": "tpl-mqtef3ux",
+  "category": "routine",
+  "date": "2026-07-19",
+  "duration_min": 480,
+  "energy_level": "",
+  "id": "default-tpl-mqtef3ux-2026-07-19",
+  "label": "Sleep",
+  "note": "",
+  "projectTag": "",
+  "start_time": "02:00",
+  "tags": []
+ },
  "default-tpl-mqtefpnr-2026-06-25": {
   "_default": true,
   "_synced": false,
@@ -640,6 +670,36 @@
   "id": "default-tpl-mqtefpnr-2026-07-17",
   "label": "Night Routine",
   "note": "",
+  "projectTag": "",
+  "start_time": "00:00",
+  "tags": []
+ },
+ "default-tpl-mqtefpnr-2026-07-18": {
+  "_default": true,
+  "_synced": false,
+  "_templateId": "tpl-mqtefpnr",
+  "category": "practice",
+  "date": "2026-07-18",
+  "duration_min": 120,
+  "energy_level": "",
+  "id": "default-tpl-mqtefpnr-2026-07-18",
+  "label": "Night Routine",
+  "note": "",
+  "projectTag": "",
+  "start_time": "00:00",
+  "tags": []
+ },
+ "default-tpl-mqtefpnr-2026-07-19": {
+  "_default": true,
+  "_synced": false,
+  "_templateId": "tpl-mqtefpnr",
+  "category": "learning",
+  "date": "2026-07-19",
+  "duration_min": 30,
+  "energy_level": "",
+  "id": "default-tpl-mqtefpnr-2026-07-19",
+  "label": "Content",
+  "note": "Mindvalley",
   "projectTag": "",
   "start_time": "00:00",
   "tags": []
@@ -13895,6 +13955,19 @@
   "note": "Last noght",
   "projectTag": "",
   "start_time": "12:00",
+  "tags": []
+ },
+ "mrqpzhuscxn51": {
+  "_synced": false,
+  "category": "leisure",
+  "date": "2026-07-19",
+  "duration_min": 120,
+  "energy_level": "",
+  "id": "mrqpzhuscxn51",
+  "label": "Entertain",
+  "note": "FIFA",
+  "projectTag": "",
+  "start_time": "01:30",
   "tags": []
  }
 }

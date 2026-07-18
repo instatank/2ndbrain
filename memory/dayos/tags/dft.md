@@ -1,4 +1,10 @@
-# #dft — 62 entries (2026-03-24 → 2026-07-16), newest first
+# #dft — 64 entries (2026-03-24 → 2026-07-17), newest first
+
+## 2026-07-17 · Quick Note 23:59
+❌ DFT skipped: SMC #dft
+
+## 2026-07-17 · Quick Note 23:59
+❌ DFT skipped: SMC #dft
 
 ## 2026-07-16 · Quick Note 23:59
 ❌ DFT skipped: SMC #dft
