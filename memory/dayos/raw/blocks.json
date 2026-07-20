@@ -359,6 +359,21 @@
   "start_time": "02:00",
   "tags": []
  },
+ "default-tpl-mqtef3ux-2026-07-20": {
+  "_default": true,
+  "_synced": false,
+  "_templateId": "tpl-mqtef3ux",
+  "category": "routine",
+  "date": "2026-07-20",
+  "duration_min": 480,
+  "energy_level": "",
+  "id": "default-tpl-mqtef3ux-2026-07-20",
+  "label": "Sleep",
+  "note": "",
+  "projectTag": "",
+  "start_time": "02:00",
+  "tags": []
+ },
  "default-tpl-mqtefpnr-2026-06-25": {
   "_default": true,
   "_synced": false,
@@ -700,6 +715,21 @@
   "id": "default-tpl-mqtefpnr-2026-07-19",
   "label": "Content",
   "note": "Mindvalley",
+  "projectTag": "",
+  "start_time": "00:00",
+  "tags": []
+ },
+ "default-tpl-mqtefpnr-2026-07-20": {
+  "_default": true,
+  "_synced": false,
+  "_templateId": "tpl-mqtefpnr",
+  "category": "practice",
+  "date": "2026-07-20",
+  "duration_min": 120,
+  "energy_level": "",
+  "id": "default-tpl-mqtefpnr-2026-07-20",
+  "label": "Night Routine",
+  "note": "",
   "projectTag": "",
   "start_time": "00:00",
   "tags": []
@@ -13968,6 +13998,84 @@
   "note": "FIFA",
   "projectTag": "",
   "start_time": "01:30",
+  "tags": []
+ },
+ "mrszmr3r85vt4": {
+  "_synced": false,
+  "category": "routine",
+  "date": "2026-07-20",
+  "duration_min": 30,
+  "energy_level": "",
+  "id": "mrszmr3r85vt4",
+  "label": "Poker",
+  "note": "",
+  "projectTag": "",
+  "start_time": "14:00",
+  "tags": []
+ },
+ "mrsznaefkjof8": {
+  "_synced": false,
+  "category": "practice",
+  "date": "2026-07-20",
+  "duration_min": 60,
+  "energy_level": "",
+  "id": "mrsznaefkjof8",
+  "label": "Research",
+  "note": "Epf",
+  "projectTag": "",
+  "start_time": "14:30",
+  "tags": []
+ },
+ "mrsznvidzqfpn": {
+  "_synced": false,
+  "category": "routine",
+  "date": "2026-07-20",
+  "duration_min": 30,
+  "energy_level": "",
+  "id": "mrsznvidzqfpn",
+  "label": "Breakfast",
+  "note": "",
+  "projectTag": "",
+  "start_time": "13:00",
+  "tags": []
+ },
+ "mrszo774ng6m8": {
+  "_synced": false,
+  "category": "leisure",
+  "date": "2026-07-20",
+  "duration_min": 30,
+  "energy_level": "",
+  "id": "mrszo774ng6m8",
+  "label": "Random",
+  "note": "",
+  "projectTag": "",
+  "start_time": "13:30",
+  "tags": []
+ },
+ "mrt312b1mr4f8": {
+  "_synced": false,
+  "category": "routine",
+  "date": "2026-07-20",
+  "duration_min": 30,
+  "energy_level": "",
+  "id": "mrt312b1mr4f8",
+  "label": "Chores",
+  "note": "Meal planning",
+  "projectTag": "",
+  "start_time": "16:30",
+  "tags": []
+ },
+ "mrt4eplt2byl7": {
+  "_synced": false,
+  "category": "leaks",
+  "date": "2026-07-20",
+  "duration_min": 30,
+  "energy_level": "",
+  "id": "mrt4eplt2byl7",
+  "label": "Random",
+  "note": "",
+  "projectTag": "",
+  "start_time": "15:30",
   "tags": []
  }
 }
