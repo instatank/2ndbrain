@@ -1,4 +1,10 @@
-# #dft — 65 entries (2026-03-24 → 2026-07-20), newest first
+# #dft — 67 entries (2026-03-24 → 2026-07-21), newest first
+
+## 2026-07-21 · Quick Note 21:37
+✅ DFT done: SMC collection #dft
+
+## 2026-07-21 · Quick Note 11:44
+✅ DFT done: Watchfulness #dft
 
 ## 2026-07-20 · Quick Note 16:19
 ✅ DFT done: EPF #dft

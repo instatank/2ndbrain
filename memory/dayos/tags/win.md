@@ -1,4 +1,13 @@
-# #win — 12 entries (2026-04-02 → 2026-07-14), newest first
+# #win — 13 entries (2026-04-02 → 2026-07-21), newest first
+
+## 2026-07-21 · Daily Journal
+Thoughts: Well rounded day. This is eod 
+#win journal and routine
+Reflection: Good return to routine - practices; diet, sleep getting there. 
+Nice organized day with work too
+Just need to keep tightening the screws. Well done!
+
+FDP diet decisions
 
 ## 2026-07-14 · Daily Journal
 Thoughts: - Overthinking a simple message to friends about a football game — complete havoc over nothing. Lesson, again: don't overanalyze. Just fucking do. It's chill.
