@@ -98,5 +98,9 @@
  "2026-07-21": {
   "status": "done",
   "text": "SMC collection"
+ },
+ "2026-07-22": {
+  "status": "pending",
+  "text": "Fibonacci"
  }
 }

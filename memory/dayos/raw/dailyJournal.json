@@ -1904,5 +1904,47 @@
   "thoughts": "Well rounded day. This is eod \n#win journal and routine",
   "timestamp": "2026-07-21T11:44:11",
   "voiceNotes": []
+ },
+ "2026-07-22": {
+  "_synced": false,
+  "attachments": [],
+  "date": "2026-07-22",
+  "id": "2026-07-22",
+  "lastEditedAt": "2026-07-22T16:52:54",
+  "reflection": "",
+  "tags": [],
+  "tasks": [
+   {
+    "carriedFromDate": "2026-07-21",
+    "completed": false,
+    "completedAt": null,
+    "id": "mrvxgrhr5je9s",
+    "text": "MF liquidate - only mine"
+   },
+   {
+    "carriedFromDate": "2026-07-21",
+    "completed": false,
+    "completedAt": null,
+    "id": "mrvxgrhrrcm8w",
+    "text": "EPF follow up"
+   },
+   {
+    "carriedFromDate": "2026-07-21",
+    "completed": false,
+    "completedAt": null,
+    "id": "mrvxgrhr2f7s5",
+    "text": "Sleep routine shift"
+   },
+   {
+    "carriedFromDate": "2026-07-21",
+    "completed": false,
+    "completedAt": null,
+    "id": "mrvxgrhr2eeq5",
+    "text": "Fibonacci study"
+   }
+  ],
+  "thoughts": "Thank you for Fibonacci\n",
+  "timestamp": "2026-07-22T15:46:34",
+  "voiceNotes": []
  }
 }

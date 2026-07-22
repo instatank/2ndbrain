@@ -1,23 +1,23 @@
 {
-  "last_attempt": "2026-07-22T02:10:57.875866+05:30",
+  "last_attempt": "2026-07-23T02:45:32.631628+05:30",
   "uid": "suz3gT477hWaS4HD8xKCNGtX4hz2",
-  "mode": "full",
-  "last_success": "2026-07-22T02:11:09.358386+05:30",
+  "mode": "recent",
+  "last_success": "2026-07-23T02:45:41.909595+05:30",
   "counts": {
-    "blocks": 1145,
-    "captures": 267,
-    "dailyJournal": 54,
-    "sessions": 17,
-    "learning": 14,
-    "ratings": 2,
     "life_ratings": 30,
-    "eod": 16,
-    "dfts": 25,
-    "weeklyReviews": 1,
+    "sessions": 17,
+    "ratings": 2,
     "monthlyReviews": 1,
-    "digest_files": 170,
+    "dfts": 26,
+    "captures": 267,
+    "weeklyReviews": 1,
+    "blocks": 1157,
+    "learning": 14,
+    "eod": 16,
+    "dailyJournal": 55,
+    "digest_files": 171,
     "digest_files_changed": 1
   },
-  "duration_s": 11.5,
-  "last_full": "2026-07-22T02:11:09.358386+05:30"
+  "duration_s": 9.3,
+  "last_full": "2026-07-23T00:41:23.633665+05:30"
 }

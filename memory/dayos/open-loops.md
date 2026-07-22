@@ -1,11 +1,11 @@
-# Open loops — still pending as of 2026-07-22
+# Open loops — still pending as of 2026-07-23
 
 5 active loop(s) from the last 10 days, oldest first.
-- 2026-07-13 (9d) journal task: MF liquidate - mom and mine
-- 2026-07-20 (2d) journal task: EPF follow up
-- 2026-07-20 (2d) journal task: MF liquidate - only mine
-- 2026-07-20 (2d) journal task: Sleep routine shift
-- 2026-07-21 (1d) journal task: Fibonacci study
+- 2026-07-13 (10d) journal task: MF liquidate - mom and mine
+- 2026-07-20 (3d) journal task: EPF follow up
+- 2026-07-20 (3d) journal task: MF liquidate - only mine
+- 2026-07-20 (3d) journal task: Sleep routine shift
+- 2026-07-21 (2d) journal task: Fibonacci study
 
 (61 older item(s) live in the never-closed archive — dayos_view 'never closed'.)
 
