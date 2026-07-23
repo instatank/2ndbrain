@@ -100,7 +100,7 @@
   "text": "SMC collection"
  },
  "2026-07-22": {
-  "status": "pending",
+  "status": "skipped",
   "text": "Fibonacci"
  }
 }

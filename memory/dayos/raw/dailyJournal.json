@@ -1946,5 +1946,50 @@
   "thoughts": "Thank you for Fibonacci\n",
   "timestamp": "2026-07-22T15:46:34",
   "voiceNotes": []
+ },
+ "2026-07-23": {
+  "_synced": false,
+  "attachments": [],
+  "date": "2026-07-23",
+  "entertainmentCap": "no",
+  "id": "2026-07-23",
+  "lastEditedAt": "2026-07-23T23:52:55",
+  "reflection": "Good sleep management ; diet ; night routine and journaling #win\n- good trading but can be even more systematic and intentional\n\n",
+  "tags": [
+   "#win"
+  ],
+  "tasks": [
+   {
+    "carriedFromDate": "2026-07-22",
+    "completed": false,
+    "completedAt": null,
+    "id": "mrxkt7iy0klu9",
+    "text": "MF liquidate - only mine"
+   },
+   {
+    "carriedFromDate": "2026-07-22",
+    "completed": false,
+    "completedAt": null,
+    "id": "mrxkt7iysri3t",
+    "text": "EPF follow up"
+   },
+   {
+    "carriedFromDate": "2026-07-22",
+    "completed": true,
+    "completedAt": "2026-07-23T23:52:14",
+    "id": "mrxkt7iyj5ye2",
+    "text": "Sleep routine shift"
+   },
+   {
+    "carriedFromDate": "2026-07-22",
+    "completed": true,
+    "completedAt": "2026-07-23T23:52:12",
+    "id": "mrxkt7iyrhblc",
+    "text": "Fibonacci study"
+   }
+  ],
+  "thoughts": "",
+  "timestamp": "2026-07-23T19:27:52",
+  "voiceNotes": []
  }
 }

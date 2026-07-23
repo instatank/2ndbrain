@@ -1,4 +1,8 @@
-# #win — 13 entries (2026-04-02 → 2026-07-21), newest first
+# #win — 14 entries (2026-04-02 → 2026-07-23), newest first
+
+## 2026-07-23 · Daily Journal
+Reflection: Good sleep management ; diet ; night routine and journaling #win
+- good trading but can be even more systematic and intentional
 
 ## 2026-07-21 · Daily Journal
 Thoughts: Well rounded day. This is eod 
