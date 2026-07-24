@@ -1,8 +1,8 @@
 {
-  "last_attempt": "2026-07-24T03:19:19.614911+05:30",
+  "last_attempt": "2026-07-25T02:03:32.635108+05:30",
   "uid": "suz3gT477hWaS4HD8xKCNGtX4hz2",
   "mode": "recent",
-  "last_success": "2026-07-24T03:19:28.852678+05:30",
+  "last_success": "2026-07-25T02:03:42.002857+05:30",
   "counts": {
     "life_ratings": 31,
     "sessions": 17,
@@ -11,13 +11,13 @@
     "dfts": 26,
     "captures": 269,
     "weeklyReviews": 1,
-    "blocks": 1173,
+    "blocks": 1175,
     "learning": 14,
     "eod": 16,
     "dailyJournal": 56,
-    "digest_files": 172,
-    "digest_files_changed": 0
+    "digest_files": 173,
+    "digest_files_changed": 8
   },
-  "duration_s": 9.2,
-  "last_full": "2026-07-23T23:13:42.486228+05:30"
+  "duration_s": 9.4,
+  "last_full": "2026-07-24T21:55:19.853133+05:30"
 }
