@@ -434,6 +434,21 @@
   "start_time": "02:00",
   "tags": []
  },
+ "default-tpl-mqtef3ux-2026-07-26": {
+  "_default": true,
+  "_synced": false,
+  "_templateId": "tpl-mqtef3ux",
+  "category": "routine",
+  "date": "2026-07-26",
+  "duration_min": 480,
+  "energy_level": "",
+  "id": "default-tpl-mqtef3ux-2026-07-26",
+  "label": "Sleep",
+  "note": "",
+  "projectTag": "",
+  "start_time": "02:00",
+  "tags": []
+ },
  "default-tpl-mqtefpnr-2026-06-25": {
   "_default": true,
   "_synced": false,
@@ -848,6 +863,21 @@
   "duration_min": 120,
   "energy_level": "",
   "id": "default-tpl-mqtefpnr-2026-07-25",
+  "label": "Night Routine",
+  "note": "",
+  "projectTag": "",
+  "start_time": "00:00",
+  "tags": []
+ },
+ "default-tpl-mqtefpnr-2026-07-26": {
+  "_default": true,
+  "_synced": false,
+  "_templateId": "tpl-mqtefpnr",
+  "category": "practice",
+  "date": "2026-07-26",
+  "duration_min": 120,
+  "energy_level": "",
+  "id": "default-tpl-mqtefpnr-2026-07-26",
   "label": "Night Routine",
   "note": "",
   "projectTag": "",
@@ -14664,6 +14694,32 @@
   "note": "",
   "projectTag": "",
   "start_time": "20:30",
+  "tags": []
+ },
+ "ms239ti1qmpe6": {
+  "_synced": false,
+  "category": "deep_work",
+  "date": "2026-07-26",
+  "duration_min": 30,
+  "energy_level": "",
+  "id": "ms239ti1qmpe6",
+  "label": "Testing",
+  "note": "",
+  "projectTag": "",
+  "start_time": "23:15",
+  "tags": []
+ },
+ "ms23a1tn4nfxk": {
+  "_synced": false,
+  "category": "routine",
+  "date": "2026-07-26",
+  "duration_min": 30,
+  "energy_level": "",
+  "id": "ms23a1tn4nfxk",
+  "label": "Test entry",
+  "note": "",
+  "projectTag": "",
+  "start_time": "23:15",
   "tags": []
  }
 }
