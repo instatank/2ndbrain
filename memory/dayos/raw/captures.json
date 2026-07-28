@@ -2832,5 +2832,28 @@
   ],
   "timestamp": "2026-07-27T23:46:41",
   "type": "note"
+ },
+ "ms4g38aht19wt": {
+  "body": "❌ DFT skipped: Weekly Intention setting #dft",
+  "id": "ms4g38aht19wt",
+  "project_tag": "",
+  "tags": [
+   "#dft"
+  ],
+  "timestamp": "2026-07-27T23:59:00",
+  "type": "note"
+ },
+ "ms4o5adlhyijv": {
+  "_synced": false,
+  "attachments": [],
+  "body": "- US big tech earnings week : seems they're dipping. we can target nasdaq next week after corrections this week\n- should i withdraw from edelweiss already ?? invesco hard dip so we wont sell there\n- clarity unlikely now, so we expect a dip in crypto ?\n- Investment redemption learnings : LTCG etc. stack up inverse , so high tax on small redemptions (better to stack redemptions in one fund to lower tax burden, than to diversify)",
+  "id": "ms4o5adlhyijv",
+  "project_tag": "Weekly Trading Thoughts",
+  "tags": [
+   "#weeklytradingthoughts"
+  ],
+  "timestamp": "2026-07-28T18:35:37",
+  "type": "project",
+  "voiceNotes": []
  }
 }
