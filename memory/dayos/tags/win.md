@@ -1,4 +1,14 @@
-# #win — 14 entries (2026-04-02 → 2026-07-23), newest first
+# #win — 15 entries (2026-04-02 → 2026-07-29), newest first
+
+## 2026-07-29 · Daily Journal
+Thoughts: Very good focus on trading. Fully intent and happy to learn explore. But I’m definitely too eager, too fomo, too over. Good job following rules; but need to be very systematic. Don’t get over excited. 
+Growth and learning focus. 
+A game masterclass soon - brave, vision
+Reflection: Focus on learning and systems, not outcomes
+Carefully with overlaps
+Good job w presence, but let’s take thoughts to a whole dimension of grace, abundance, manifestation in all aspects
+
+#win journaling
 
 ## 2026-07-23 · Daily Journal
 Reflection: Good sleep management ; diet ; night routine and journaling #win

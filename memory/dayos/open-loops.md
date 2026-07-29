@@ -1,9 +1,9 @@
-# Open loops — still pending as of 2026-07-29
+# Open loops — still pending as of 2026-07-30
 
 3 active loop(s) from the last 10 days, oldest first.
-- 2026-07-20 (9d) journal task: EPF Follow up
-- 2026-07-20 (9d) journal task: MF liquidate - only mine
-- 2026-07-27 (2d) journal task: look into substack
+- 2026-07-20 (10d) journal task: EPF Follow up
+- 2026-07-20 (10d) journal task: MF liquidate - only mine
+- 2026-07-27 (3d) journal task: look into substack
 
 (62 older item(s) live in the never-closed archive — dayos_view 'never closed'.)
 
