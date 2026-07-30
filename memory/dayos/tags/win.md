@@ -1,4 +1,12 @@
-# #win — 15 entries (2026-04-02 → 2026-07-29), newest first
+# #win — 16 entries (2026-04-02 → 2026-07-30), newest first
+
+## 2026-07-30 · Daily Journal
+Thoughts: Went into binge mode last night - why ?
+Feeling good positive consciousness mindset this morning. Let’s create MAGIC!
+Gratitude for Gurus” grace 🙏
+Reflection: - Nice long trading session but why is that enough. Too long break at night. Can go more.
+- good mindset and attitude towards the trading today. Relaxed and process oriented. Good improvement . #win 
+Definitely need to get more exercise in and let’s start getting lighter meals in but good job here still
 
 ## 2026-07-29 · Daily Journal
 Thoughts: Very good focus on trading. Fully intent and happy to learn explore. But I’m definitely too eager, too fomo, too over. Good job following rules; but need to be very systematic. Don’t get over excited. 
