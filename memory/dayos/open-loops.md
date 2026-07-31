@@ -1,7 +1,8 @@
-# Open loops — still pending as of 2026-07-31
+# Open loops — still pending as of 2026-08-01
 
-1 active loop(s) from the last 10 days, oldest first.
-- 2026-07-27 (4d) journal task: look into substack
+2 active loop(s) from the last 10 days, oldest first.
+- 2026-07-27 (5d) journal task: look into substack
+- 2026-07-31 (1d) journal task: Watch other negative thoughts (RPL)
 
 (64 older item(s) live in the never-closed archive — dayos_view 'never closed'.)
 
