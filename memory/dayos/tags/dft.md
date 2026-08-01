@@ -1,4 +1,10 @@
-# #dft — 71 entries (2026-03-24 → 2026-07-27), newest first
+# #dft — 73 entries (2026-03-24 → 2026-07-31), newest first
+
+## 2026-07-31 · Quick Note 23:59
+❌ DFT skipped: Exercise #dft
+
+## 2026-07-31 · Quick Note 23:59
+❌ DFT skipped: Exercise #dft
 
 ## 2026-07-27 · Quick Note 23:59
 ❌ DFT skipped: Weekly Intention setting #dft

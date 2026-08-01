@@ -1,4 +1,8 @@
-# #win — 16 entries (2026-04-02 → 2026-07-30), newest first
+# #win — 17 entries (2026-04-02 → 2026-08-01), newest first
+
+## 2026-08-01 · Daily Journal
+Thoughts: Break today from trading. Let’s get back to some daily building. Evening plans for Payal didi’s. 
+#win escape the rumination trap
 
 ## 2026-07-30 · Daily Journal
 Thoughts: Went into binge mode last night - why ?
