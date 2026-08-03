@@ -2899,5 +2899,25 @@
   ],
   "timestamp": "2026-07-31T23:59:00",
   "type": "note"
+ },
+ "msd3hjlobu9nx": {
+  "body": "❌ DFT skipped: Exercise #dft",
+  "id": "msd3hjlobu9nx",
+  "project_tag": "",
+  "tags": [
+   "#dft"
+  ],
+  "timestamp": "2026-07-31T23:59:00",
+  "type": "note"
+ },
+ "msd3mku5tk60o": {
+  "body": "✅ DFT done: Call charmwood #dft",
+  "id": "msd3mku5tk60o",
+  "project_tag": "",
+  "tags": [
+   "#dft"
+  ],
+  "timestamp": "2026-08-03T16:11:08",
+  "type": "note"
  }
 }

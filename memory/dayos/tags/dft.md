@@ -1,4 +1,10 @@
-# #dft — 73 entries (2026-03-24 → 2026-07-31), newest first
+# #dft — 75 entries (2026-03-24 → 2026-08-03), newest first
+
+## 2026-08-03 · Quick Note 16:11
+✅ DFT done: Call charmwood #dft
+
+## 2026-07-31 · Quick Note 23:59
+❌ DFT skipped: Exercise #dft
 
 ## 2026-07-31 · Quick Note 23:59
 ❌ DFT skipped: Exercise #dft
