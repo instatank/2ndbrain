@@ -1,5 +1,13 @@
 # Learning log (newest first)
 
+## 2026-08-04 · ICT concepts by tradermayne (Video)
+Liquidity -> orders
+Think I am Institution, and I’m finding those orders
+BSL / SSL
+Stop hunt
+Liquidity sweep
+Sfp
+
 ## 2026-07-28 · ICT Mentorship (Course)
 Ch1
 **1. Video Identifier**

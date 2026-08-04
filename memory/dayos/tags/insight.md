@@ -1,4 +1,10 @@
-# #insight — 27 entries (2026-03-24 → 2026-07-12), newest first
+# #insight — 28 entries (2026-03-24 → 2026-08-04), newest first
+
+## 2026-08-04 · Quick Note 15:05
+Position size comes from the SL 
+#insight #learning
+PS = risk% x Ac bal // entry - stop
+#trading
 
 ## 2026-07-12 · Quick Note 13:45
 Relationships are the most important. And highest priority!

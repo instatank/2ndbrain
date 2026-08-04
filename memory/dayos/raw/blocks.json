@@ -554,6 +554,21 @@
   "start_time": "02:00",
   "tags": []
  },
+ "default-tpl-mqtef3ux-2026-08-04": {
+  "_default": true,
+  "_synced": false,
+  "_templateId": "tpl-mqtef3ux",
+  "category": "routine",
+  "date": "2026-08-04",
+  "duration_min": 480,
+  "energy_level": "",
+  "id": "default-tpl-mqtef3ux-2026-08-04",
+  "label": "Sleep",
+  "note": "",
+  "projectTag": "",
+  "start_time": "02:00",
+  "tags": []
+ },
  "default-tpl-mqtefpnr-2026-06-25": {
   "_default": true,
   "_synced": false,
@@ -1088,6 +1103,21 @@
   "duration_min": 120,
   "energy_level": "",
   "id": "default-tpl-mqtefpnr-2026-08-03",
+  "label": "Night Routine",
+  "note": "",
+  "projectTag": "",
+  "start_time": "00:00",
+  "tags": []
+ },
+ "default-tpl-mqtefpnr-2026-08-04": {
+  "_default": true,
+  "_synced": false,
+  "_templateId": "tpl-mqtefpnr",
+  "category": "practice",
+  "date": "2026-08-04",
+  "duration_min": 120,
+  "energy_level": "",
+  "id": "default-tpl-mqtefpnr-2026-08-04",
   "label": "Night Routine",
   "note": "",
   "projectTag": "",
@@ -16126,6 +16156,32 @@
   "note": "",
   "projectTag": "",
   "start_time": "22:45",
+  "tags": []
+ },
+ "mseh93196kjxo": {
+  "_synced": false,
+  "category": "learning",
+  "date": "2026-08-04",
+  "duration_min": 60,
+  "energy_level": "",
+  "id": "mseh93196kjxo",
+  "label": "Trading",
+  "note": "ICT tradermayne",
+  "projectTag": "",
+  "start_time": "15:00",
+  "tags": []
+ },
+ "mseh9deqprjvl": {
+  "_synced": false,
+  "category": "deep_work",
+  "date": "2026-08-04",
+  "duration_min": 120,
+  "energy_level": "",
+  "id": "mseh9deqprjvl",
+  "label": "Trading",
+  "note": "",
+  "projectTag": "",
+  "start_time": "16:30",
   "tags": []
  }
 }
