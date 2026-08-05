@@ -2963,5 +2963,18 @@
   "timestamp": "2026-08-04T17:41:08",
   "type": "note",
   "voiceNotes": []
+ },
+ "msftc8lrb4119": {
+  "_synced": false,
+  "attachments": [],
+  "body": "Tradermayne : \nSMT divergence : eg. btc , eth. One makes HH the other makes LH",
+  "id": "msftc8lrb4119",
+  "project_tag": "ICT",
+  "tags": [
+   "#ict"
+  ],
+  "timestamp": "2026-08-05T13:46:28",
+  "type": "project",
+  "voiceNotes": []
  }
 }

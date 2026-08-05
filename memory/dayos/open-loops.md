@@ -1,11 +1,11 @@
-# Open loops — still pending as of 2026-08-05
+# Open loops — still pending as of 2026-08-06
 
 5 active loop(s) from the last 10 days, oldest first.
-- 2026-07-27 (9d) journal task: look into substack
-- 2026-07-31 (5d) journal task: Watch other negative thoughts (RPL)
-- 2026-08-01 (4d) journal task: Meal planner update this week
-- 2026-08-03 (2d) journal task: Ask mr Nagrath about valuation
-- 2026-08-03 (2d) journal task: Rumination CAUTION
+- 2026-07-27 (10d) journal task: look into substack
+- 2026-07-31 (6d) journal task: Watch other negative thoughts (RPL)
+- 2026-08-01 (5d) journal task: Meal planner update this week
+- 2026-08-03 (3d) journal task: Ask mr Nagrath about valuation
+- 2026-08-03 (3d) journal task: Rumination CAUTION
 
 (64 older item(s) live in the never-closed archive — dayos_view 'never closed'.)
 

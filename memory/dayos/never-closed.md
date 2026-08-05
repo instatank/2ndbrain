@@ -1,69 +1,69 @@
-# Never closed — loops that outlived 10 days (as of 2026-08-05)
+# Never closed — loops that outlived 10 days (as of 2026-08-06)
 
 64 item(s), oldest first — what tends to land here is a signal in itself.
-- 2026-04-30 (97d) journal task: Figure nice dinner
-- 2026-04-30 (97d) journal task: P.S. - production : customized testing
-- 2026-04-30 (97d) journal task: PS- update roast
-- 2026-04-30 (97d) journal task: Watch karpathy, finish Vaibhav
-- 2026-04-30 (97d) journal task: wrap building to a state : os, ps.
-- 2026-05-01 (96d) journal task: Sahni paperwork eval complete
-- 2026-05-02 (95d) session · PartySpark: Roast me new prompts later
-- 2026-05-03 (94d) journal task: Review party night thoughts
-- 2026-05-04 (93d) journal task: Any small builds new ??
-- 2026-05-04 (93d) journal task: Finish sisinty shamani
-- 2026-05-04 (93d) journal task: Pay attention to context switching for bg multi-tasking activities
-- 2026-05-04 (93d) journal task: Relegate os, ps setup for background
-- 2026-05-04 (93d) journal task: Set tone for the week
-- 2026-05-04 (93d) journal task: UoT sit with it
-- 2026-05-04 (93d) journal task: Watch mindset, smoking (no converse)
-- 2026-05-04 (93d) session · Content: Can I make an app which will automate a lot of this stuff. Simple UI - mention functio, channel name and api handles it ??
-- 2026-05-04 (93d) session · Content: claude has suggested a nice workflow for YT content mgmt. will use over-time
-- 2026-05-05 (92d) session · DayOS: PS : game page descriptors
-- 2026-05-05 (92d) session · DayOS: SETTINGS for PS...mirroring, syncing ??
-- 2026-05-05 (92d) session · DayOS: adherance, more customization, testing
-- 2026-05-06 (91d) journal task: First, or content management wrap
-- 2026-05-06 (91d) journal task: Initial conceptualize UoT and trading builds
-- 2026-05-07 (90d) journal task: Morning papers
-- 2026-05-09 (88d) journal task: Try using mobbin as UI ref for build
-- 2026-05-09 (88d) session · Cadence: Setup page still due ; and test all updates
-- 2026-05-09 (88d) session · Cadence: Sync calibrate billOS with day OS
-- 2026-05-10 (87d) journal task: Explore LLM wiki
-- 2026-05-11 (86d) journal task: But better than any leaks
-- 2026-05-11 (86d) journal task: Caution with content overdo
-- 2026-05-11 (86d) journal task: Transurfing contemplation
-- 2026-05-11 (86d) session · BillBud: amex
-- 2026-05-14 (83d) journal task: Weekend plan w Simi ?
-- 2026-05-24 (73d) journal task: Gfcj
-- 2026-05-24 (73d) journal task: Hcfg
-- 2026-05-27 (70d) journal task: Build SOp for Claude -> ChatGPT
-- 2026-05-27 (70d) journal task: Dinner at 630 VV
-- 2026-05-27 (70d) journal task: Get Fonzie meds
-- 2026-05-31 (66d) journal task: Hsbsh
-- 2026-06-03 (63d) journal task: Cravings observe
-- 2026-06-03 (63d) journal task: More focused trading system
-- 2026-06-03 (63d) journal task: Sahni paperwork
-- 2026-06-03 (63d) journal task: Some productive planning for week and month
-- 2026-06-12 (54d) journal task: Sahni discussion points , AI
-- 2026-06-12 (54d) journal task: Schedule with ashvani
-- 2026-06-12 (54d) journal task: Trading journal on codex 3 days
-- 2026-06-12 (54d) journal task: Weekend plans
-- 2026-06-15 (51d) journal task: Learn best practices for token use
-- 2026-06-15 (51d) journal task: Research case work
-- 2026-06-15 (51d) journal task: Set goals and targets
-- 2026-06-15 (51d) journal task: Set up deep work systems
-- 2026-06-18 (48d) journal task: Mashobra plan
-- 2026-06-18 (48d) journal task: Optimize prompts
-- 2026-06-18 (48d) journal task: SKILLS AND PLUGINS
-- 2026-06-22 (44d) journal task: Easyway
-- 2026-06-24 (42d) journal task: Testing
-- 2026-06-24 (42d) journal task: Testing entries
-- 2026-06-25 (41d) journal task: Call rony
-- 2026-06-25 (41d) journal task: Some trading system
-- 2026-06-29 (37d) journal task: Create my AI brain
-- 2026-06-29 (37d) journal task: Tax paperwork
-- 2026-07-05 (31d) journal task: Light exercise
-- 2026-07-13 (23d) journal task: MF liquidate - mom and mine
-- 2026-07-20 (16d) journal task: EPF Follow up
-- 2026-07-20 (16d) journal task: MF liquidate - only mine
+- 2026-04-30 (98d) journal task: Figure nice dinner
+- 2026-04-30 (98d) journal task: P.S. - production : customized testing
+- 2026-04-30 (98d) journal task: PS- update roast
+- 2026-04-30 (98d) journal task: Watch karpathy, finish Vaibhav
+- 2026-04-30 (98d) journal task: wrap building to a state : os, ps.
+- 2026-05-01 (97d) journal task: Sahni paperwork eval complete
+- 2026-05-02 (96d) session · PartySpark: Roast me new prompts later
+- 2026-05-03 (95d) journal task: Review party night thoughts
+- 2026-05-04 (94d) journal task: Any small builds new ??
+- 2026-05-04 (94d) journal task: Finish sisinty shamani
+- 2026-05-04 (94d) journal task: Pay attention to context switching for bg multi-tasking activities
+- 2026-05-04 (94d) journal task: Relegate os, ps setup for background
+- 2026-05-04 (94d) journal task: Set tone for the week
+- 2026-05-04 (94d) journal task: UoT sit with it
+- 2026-05-04 (94d) journal task: Watch mindset, smoking (no converse)
+- 2026-05-04 (94d) session · Content: Can I make an app which will automate a lot of this stuff. Simple UI - mention functio, channel name and api handles it ??
+- 2026-05-04 (94d) session · Content: claude has suggested a nice workflow for YT content mgmt. will use over-time
+- 2026-05-05 (93d) session · DayOS: PS : game page descriptors
+- 2026-05-05 (93d) session · DayOS: SETTINGS for PS...mirroring, syncing ??
+- 2026-05-05 (93d) session · DayOS: adherance, more customization, testing
+- 2026-05-06 (92d) journal task: First, or content management wrap
+- 2026-05-06 (92d) journal task: Initial conceptualize UoT and trading builds
+- 2026-05-07 (91d) journal task: Morning papers
+- 2026-05-09 (89d) journal task: Try using mobbin as UI ref for build
+- 2026-05-09 (89d) session · Cadence: Setup page still due ; and test all updates
+- 2026-05-09 (89d) session · Cadence: Sync calibrate billOS with day OS
+- 2026-05-10 (88d) journal task: Explore LLM wiki
+- 2026-05-11 (87d) journal task: But better than any leaks
+- 2026-05-11 (87d) journal task: Caution with content overdo
+- 2026-05-11 (87d) journal task: Transurfing contemplation
+- 2026-05-11 (87d) session · BillBud: amex
+- 2026-05-14 (84d) journal task: Weekend plan w Simi ?
+- 2026-05-24 (74d) journal task: Gfcj
+- 2026-05-24 (74d) journal task: Hcfg
+- 2026-05-27 (71d) journal task: Build SOp for Claude -> ChatGPT
+- 2026-05-27 (71d) journal task: Dinner at 630 VV
+- 2026-05-27 (71d) journal task: Get Fonzie meds
+- 2026-05-31 (67d) journal task: Hsbsh
+- 2026-06-03 (64d) journal task: Cravings observe
+- 2026-06-03 (64d) journal task: More focused trading system
+- 2026-06-03 (64d) journal task: Sahni paperwork
+- 2026-06-03 (64d) journal task: Some productive planning for week and month
+- 2026-06-12 (55d) journal task: Sahni discussion points , AI
+- 2026-06-12 (55d) journal task: Schedule with ashvani
+- 2026-06-12 (55d) journal task: Trading journal on codex 3 days
+- 2026-06-12 (55d) journal task: Weekend plans
+- 2026-06-15 (52d) journal task: Learn best practices for token use
+- 2026-06-15 (52d) journal task: Research case work
+- 2026-06-15 (52d) journal task: Set goals and targets
+- 2026-06-15 (52d) journal task: Set up deep work systems
+- 2026-06-18 (49d) journal task: Mashobra plan
+- 2026-06-18 (49d) journal task: Optimize prompts
+- 2026-06-18 (49d) journal task: SKILLS AND PLUGINS
+- 2026-06-22 (45d) journal task: Easyway
+- 2026-06-24 (43d) journal task: Testing
+- 2026-06-24 (43d) journal task: Testing entries
+- 2026-06-25 (42d) journal task: Call rony
+- 2026-06-25 (42d) journal task: Some trading system
+- 2026-06-29 (38d) journal task: Create my AI brain
+- 2026-06-29 (38d) journal task: Tax paperwork
+- 2026-07-05 (32d) journal task: Light exercise
+- 2026-07-13 (24d) journal task: MF liquidate - mom and mine
+- 2026-07-20 (17d) journal task: EPF Follow up
+- 2026-07-20 (17d) journal task: MF liquidate - only mine
 
 (An item leaves this list only when its task is finally ticked — or deleted — in DayOS.)
