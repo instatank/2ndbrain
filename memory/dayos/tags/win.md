@@ -1,4 +1,9 @@
-# #win — 17 entries (2026-04-02 → 2026-08-01), newest first
+# #win — 18 entries (2026-04-02 → 2026-08-06), newest first
+
+## 2026-08-06 · Daily Journal
+Reflection: Nice work on the trading learn and practice
+#win trading journal 
+Nice devotion, walk, exercise, meditation
 
 ## 2026-08-01 · Daily Journal
 Thoughts: Break today from trading. Let’s get back to some daily building. Evening plans for Payal didi’s. 

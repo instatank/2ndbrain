@@ -193,5 +193,37 @@
   "tags": [],
   "takeaway": "",
   "voiceNotes": []
+ },
+ "msh9tld7u39q0": {
+  "_synced": false,
+  "attachments": [],
+  "createdAt": "2026-08-06T14:15:37",
+  "date": "2026-08-06",
+  "fullNotes": null,
+  "id": "msh9tld7u39q0",
+  "sourceName": "Liquidity Sweeps - Mayne",
+  "sourceType": "Video",
+  "tags": [
+   "#trading",
+   "#ict"
+  ],
+  "takeaway": "Liq Sweep => SFP/Breaknclose --> Displacement\ni didnt understand diff b/w stop hunt and liq sweep (same for me)",
+  "voiceNotes": []
+ },
+ "mshphzymlwn34": {
+  "_synced": false,
+  "attachments": [],
+  "createdAt": "2026-08-06T21:34:30",
+  "date": "2026-08-06",
+  "fullNotes": "Significant Swing H/L, mark range, EQ, premium/disc, BSL/SSL\nDealing range basically is the SH/SL range for each leg of every MSB (the HH and HL combo)\nERL for Targets; and IRLs for entries",
+  "id": "mshphzymlwn34",
+  "sourceName": "Mayne - Dealing Ranges",
+  "sourceType": "",
+  "tags": [
+   "#trading",
+   "#ict"
+  ],
+  "takeaway": "",
+  "voiceNotes": []
  }
 }

@@ -1,6 +1,9 @@
 # Trading (#trading) — 8.0h logged across 7 blocks
 
 ## Notes (newest first)
+- 2026-08-06 Quick Note: Break and close is also a liquidity sweep just like an sfp
+#trading #tradermayne
+Liq sweep —> sfp/breknclose followed by *Displacement*
 - 2026-08-04 Quick Note: dont trade TO FVG/OB. they are OTEs, can trade FROM...#trading #learning
 - 2026-08-04 Quick Note: I just learned a completely opposite definition of MSB …he says MSS is what I thought man was and an MSB is a simple CONINUATION of current MS. It’s just that retracement 
 #trading #learning #tradermayne
@@ -20,4 +23,7 @@ PS = risk% x Ac bal // entry - stop
 We need some entertainment check
 
 ## Learning (tagged #trading)
+- 2026-08-06 Liquidity Sweeps - Mayne: Liq Sweep => SFP/Breaknclose --> Displacement
+i didnt understand diff b/w stop hunt and liq sweep (same for me)
+- 2026-08-06 Mayne - Dealing Ranges: 
 - 2026-04-28 Akhil call: Follow the smart money

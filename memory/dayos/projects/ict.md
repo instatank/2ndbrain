@@ -8,3 +8,8 @@ OR 8 and 830 - do same
 Or 9 and 930 - do same
 looking for Smoothness --> this above is pre-market range; and the subsequent 30 min (730-8; 830-9; 930-10) is opening range...look NOT before , but it should form in these timeframes
 My Questions still are : identify entry; SL,
+
+## Learning (tagged #ict)
+- 2026-08-06 Liquidity Sweeps - Mayne: Liq Sweep => SFP/Breaknclose --> Displacement
+i didnt understand diff b/w stop hunt and liq sweep (same for me)
+- 2026-08-06 Mayne - Dealing Ranges:

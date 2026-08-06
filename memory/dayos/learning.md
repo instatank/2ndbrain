@@ -1,5 +1,16 @@
 # Learning log (newest first)
 
+## 2026-08-06 · Liquidity Sweeps - Mayne (Video)
+Takeaway: Liq Sweep => SFP/Breaknclose --> Displacement
+i didnt understand diff b/w stop hunt and liq sweep (same for me)
+Tags: #trading #ict
+
+## 2026-08-06 · Mayne - Dealing Ranges
+Significant Swing H/L, mark range, EQ, premium/disc, BSL/SSL
+Dealing range basically is the SH/SL range for each leg of every MSB (the HH and HL combo)
+ERL for Targets; and IRLs for entries
+Tags: #trading #ict
+
 ## 2026-08-04 · ICT concepts by tradermayne (Video)
 Liquidity -> orders
 Think I am Institution, and I’m finding those orders

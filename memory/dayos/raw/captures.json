@@ -2976,5 +2976,20 @@
   "timestamp": "2026-08-05T13:46:28",
   "type": "project",
   "voiceNotes": []
+ },
+ "mshbmpx281r3q": {
+  "_synced": false,
+  "attachments": [],
+  "body": "Break and close is also a liquidity sweep just like an sfp\n#trading #tradermayne\nLiq sweep —> sfp/breknclose followed by *Displacement*",
+  "id": "mshbmpx281r3q",
+  "project_tag": "",
+  "tags": [
+   "#trading",
+   "#tradermayne",
+   "#tradermayneliq"
+  ],
+  "timestamp": "2026-08-06T15:06:16",
+  "type": "note",
+  "voiceNotes": []
  }
 }
