@@ -2320,5 +2320,26 @@
   "thoughts": "",
   "timestamp": "2026-08-06T22:41:45",
   "voiceNotes": []
+ },
+ "2026-08-07": {
+  "_synced": false,
+  "attachments": [],
+  "date": "2026-08-07",
+  "entertainmentCap": "no",
+  "id": "2026-08-07",
+  "lastEditedAt": "2026-08-07T20:15:24",
+  "reflection": "",
+  "tags": [],
+  "tasks": [
+   {
+    "completed": false,
+    "completedAt": null,
+    "id": "msj1vso1hgj20",
+    "text": "HDFC ergo"
+   }
+  ],
+  "thoughts": "Need mindset shift on the nutrition and the injury",
+  "timestamp": "2026-08-07T11:44:16",
+  "voiceNotes": []
  }
 }
